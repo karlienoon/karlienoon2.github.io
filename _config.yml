@@ -4,7 +4,7 @@ subtitle: Noon
 email: karlie.noon@hotmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/home" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://karlienoon2.github.io"
 author:
 street_address: 
 city: 
